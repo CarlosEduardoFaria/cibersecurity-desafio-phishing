@@ -19,30 +19,30 @@
 ### Passo a passo:
 
 - 1 - Acesso root
-![Alt text](./1_acesso_root.png "1 - Acesso root")
+<img src="./1_acesso_root.PNG" alt="1 - Acesso root">
 
 - 2 - acesso a ferramenta setoolkit
-![Alt text](./2_acesso_ferramenta_setoolkit.png "2 - acesso a ferramenta setoolkit")
+<img src="./2_acesso_ferramenta_setoolkit.PNG" alt="2 - acesso a ferramenta setoolkit">
 
 - 3 - Social-Engineering Attacks (Op-1)
-![Alt text](./3_Social_Engineering_Attacks.png "3 - Social-Engineering Attacks")
+<img src="./3_Social_Engineering_Attacks.PNG" alt="Social-Engineering Attacks">
 
 - 4 - Web Site Attack Vectors (Op-2)
-![Alt text](./4_Web_Site_Attack_Vectors.png "4 - Web Site Attack Vectors")
+<img src="./4_Web_Site_Attack_Vectors.PNG" alt="Web Site Attack Vectors">
 
 - 5 - Credential Harvester Attack Method (Op-3)
-![Alt text](./5_Credential_Harvester_Attack_Method.png "5 - Credential Harvester Attack Method")
+<img src="./5_Credential_Harvester_Attack_Method.PNG" alt="Credential Harvester Attack Method">
 
 - 6 - Site Cloner (Op-2)
-![Alt text](./6_Site_Cloner.png "6 - Site Cloner")
+<img src="./6_Site_Cloner.PNG" alt="Site Cloner">
 
 - 7 - Configuração Concluída
-![Alt text](./7_Configuração_Concluída.png "7 - Configuração Concluída")
+<img src="./7_Configuração_Concluída.PNG" alt="Configuração Concluída">
 
 - 8.1 - Acesso a Pagina Fake
-![Alt text](./8_1_Acesso_Pagina_Fake.png "8.1 - Acesso a Pagina Fake")
+<img src="./8_1_Acesso_Pagina_Fake.PNG" alt="Acesso a Pagina Fake">
 
 - 8.2 - Login da Pagina Fake
-![Alt text](./8_2_Login_Pagina_Fake.png "8.2 - Login da Pagina Fake")
+<img src="./8_2_Login_Pagina_Fake.PNG" alt="Login da Pagina Fake">
 
 <i>Obs: Funciona tanto com http quanto para https, entretanto alguns sites possuem proteção contra o clone de sites.</i>
